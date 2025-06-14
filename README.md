@@ -26,9 +26,9 @@
 - 👯 I’m looking to collaborate on [ML Project](mailto:devsamiubaidi@gmail.com)
 - 🤝 I’m looking for help with [AI Student Project](mailto:devsamiubaidi@gmail.com)
 - 👨‍💻 All of my projects are available at [https://devsamiubaidi.netlify.app/](https://devsamiubaidi.netlify.app/)
-- 📝 I regularly write articles on [writersami.blogspot.com](https://writersami.blogspot.com)
+- 📝 I regularly write articles on [writersamiubaidi.blogspot.com](https://writersamiubaidi.blogspot.com)
 - 📫 How to reach me **devsamiubaidi@gmail.com**
-- 📄 Know about my experiences [writersami.blogspot.com](https://writersami.blogspot.com)
+- 📄 Know about my experiences [writersamiubaidi.blogspot.com](https://writersamiubaidi.blogspot.com)
 - ⚡ Fun fact **I think I'm a Robot**
 
 ### Blogs posts
@@ -44,13 +44,13 @@
   <a href="https://twitter.com/yourusername" target="_blank">
     <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter">
   </a>
-  <a href="https://instagram.com/yourusername" target="_blank">
+  <a href="https://instagram.com/samiubaidi" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram">
   </a>
-  <a href="https://facebook.com/yourusername" target="_blank">
+  <a href="https://facebook.com/samisamejo" target="_blank">
     <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook">
   </a>
-  <a href="https://youtube.com/yourchannel" target="_blank">
+  <a href="https://www.youtube.com/channel/UCAGGHUzh8q0uoLZdaOYTKyQ" target="_blank">
     <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube">
   </a>
   <a href="https://github.com/ubaidicoding" target="_blank">

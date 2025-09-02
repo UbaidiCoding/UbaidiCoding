@@ -3,15 +3,15 @@
 
 <!-- Added 10 badges here -->
 <p align="center">
-  <img src="https://img.shields.io/badge/Best_Developer_in_Pakistan-Yes-brightgreen" alt="Best Developer Pakistan">
-  <img src="https://img.shields.io/badge/Best_Ethical_Hacker_in_Sindh-Yes-blue" alt="Best Ethical Hacker Sindh">
+<!--   <img src="https://img.shields.io/badge/Best_Developer_in_Pakistan-Yes-brightgreen" alt="Best Developer Pakistan">
+  <img src="https://img.shields.io/badge/Best_Ethical_Hacker_in_Sindh-Yes-blue" alt="Best Ethical Hacker Sindh"> -->
   <img src="https://img.shields.io/badge/Fullstack_Developer-Expert-ff69b4" alt="Fullstack Developer">
   <img src="https://img.shields.io/badge/Ethical_Hacker-Professional-red" alt="Ethical Hacker">
   <img src="https://img.shields.io/badge/Freelancer-Available-success" alt="Freelancer">
   <img src="https://img.shields.io/badge/Location-Sukkur,_Sindh-orange" alt="Sukkur, Sindh">
-  <img src="https://img.shields.io/badge/Co_Founder-Ubaidi_IT_Community-9cf" alt="Ubaidi IT Community">
+  <img src="https://img.shields.io/badge/Founder-Ubaidi_IT_Community-9cf" alt="Ubaidi IT Community">
   <img src="https://img.shields.io/badge/Programmer-Python,_JS,_Java-yellow" alt="Programmer">
-  <img src="https://img.shields.io/badge/Hackathon_Winner-3_times-purple" alt="Hackathon Winner">
+<!--   <img src="https://img.shields.io/badge/Hackathon_Winner-3_times-purple" alt="Hackathon Winner"> -->
   <img src="https://img.shields.io/badge/Open_Source-Contributor-lightgrey" alt="Open Source">
 </p>
 

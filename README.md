@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm SamiullahSamejo</h1>
+<h1 align="center">Hi 👋, I'm Samiullah Samejo also Sami_Ubaidi</h1>
 <h3 align="center">A passionate FullStack developer from Pakistan</h3>
 
 <!-- Added 10 badges here -->
